@@ -1,59 +1,44 @@
-<h1 align="center">Matheus Biscaia</h1>
+<div align="center">
 
-<p align="center">
-  Desenvolvedor Front-End em evolução, focado em criar interfaces bonitas, funcionais e bem construídas.
-</p>
+# Matheus Biscaia
 
-<p align="center">
-  <a href="https://github.com/matheusBiscaia">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:SEUEMAILAQUI@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/SEU-INSTAGRAM/">
-    <img src="https://img.shields.io/badge/Instagram-Perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+### Front-End Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-End;Criando+interfaces+bonitas+e+funcionais;Estudando+React%2C+JavaScript+e+TypeScript" />
+
+</div>
 
 ---
 
-## Sobre mim
+## ✦ About me
 
-- Desenvolvedor apaixonado por tecnologia e interfaces bem feitas
-- Estudando e evoluindo em Front-End moderno
-- Focado em projetos com visual profissional e boa experiência de uso
-- Buscando crescer cada vez mais com React, JavaScript e design de interfaces
+- Desenvolvedor focado em interfaces modernas
+- Estudando React, JavaScript e TypeScript
+- Interesse em design, responsividade e experiencia do usuario
+- Construindo projetos reais para evoluir como programador
 
 ---
 
-## Tecnologias que uso
+## ✦ Tech Stack
 
+### Front-End
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
----
+### Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
-## Atualmente estudando
-
+### Estudando
 <p>
   <img src="https://skillicons.dev/icons?i=ts,next,nodejs" />
 </p>
 
 ---
 
-## Projetos em destaque
-
-- [RT Material](https://github.com/matheusBiscaia/rtMaterial)
-- Em breve mais projetos publicados por aqui
-
----
-
-## Estatísticas
+## ✦ GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=matheusBiscaia&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -62,14 +47,22 @@
 
 ---
 
-## Contato
+## ✦ Featured Project
 
-- Email: `SEUEMAILAQUI@gmail.com`
-- LinkedIn: `https://www.linkedin.com/in/SEU-LINK-AQUI/`
-- Instagram: `https://www.instagram.com/SEU-INSTAGRAM/`
+- [RT Material](https://github.com/matheusBiscaia/rtMaterial)
 
 ---
 
-<p align="center">
-  Feito com dedicação para construir uma trajetória forte na programação.
+## ✦ Contact
+
+<p>
+  <a href="mailto:SEUEMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/SEU-LINK/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/SEU-INSTAGRAM/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>

@@ -29,7 +29,7 @@
 
 ---
 
-### <p align="center"><strong>✦ Tech Stack ✦</strong></p>
+### <p align="center"><strong>✦ Minhas Tecnologias ✦</strong></p>
 
 #### Front-End
 <p>
@@ -48,12 +48,12 @@
 
 <br>
 
+
+
+
 ---
 
-
----
-
-### <p align="center"><strong>✦ Contact me ✦</strong></p>
+### <p align="center"><strong>✦ Entre em contato ✦</strong></p>
 
 <p align="center">
   <a href="mailto:matheusbiscaia@yahoo.com.br" target="_blank">

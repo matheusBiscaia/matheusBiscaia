@@ -3,9 +3,7 @@
   <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&lines=Matheus+Biscaia;Front-End+Developer;React+%7C+JavaScript+%7C+UI;Construindo+interfaces+bonitas+e+funcionais" />
   <br><br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHpvajlwNWd5d2lwYmppNHg1bmxzOWc5ODF2M2FrMmkxMGdiZWNmZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif" width="55" />
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHpvajlwNWd5d2lwYmppNHg1bmxzOWc5ODF2M2FrMmkxMGdiZWNmZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gf675azxNAz2zDQ1vD/giphy.gif" width="55" />
+
 </div>
 
 <br>

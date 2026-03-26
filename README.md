@@ -64,10 +64,7 @@
   </a>
   <a href="https://www.instagram.com/theu.biscaia" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=black" height="36"/>
-  </a>
-  <a href="https://github.com/matheusBiscaia/rtMaterial" target="_blank">
-    <img src="https://img.shields.io/badge/Project-ffffff?style=for-the-badge&logo=github&logoColor=black" height="36"/>
-  </a>
+
 </p>
 
 <br>

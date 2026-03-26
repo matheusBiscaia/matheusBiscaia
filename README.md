@@ -1,71 +1,75 @@
-<h1 align="center">Olá, eu sou Matheus Biscaia 👋</h1>
-<h3 align="center">Estudante de Engenharia de Computação • Futuro Engenheiro de Software</h3>
+<h1 align="center">Matheus Biscaia</h1>
 
 <p align="center">
-  Focado em desenvolvimento de software, back-end e construção de projetos práticos.
+  Desenvolvedor Front-End em evolução, focado em criar interfaces bonitas, funcionais e bem construídas.
 </p>
 
 <p align="center">
-  <a href="SEU_LINK_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:SEU_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://github.com/matheusBiscaia">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Perfil-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:SEUEMAILAQUI@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/SEU-INSTAGRAM/">
+    <img src="https://img.shields.io/badge/Instagram-Perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
-- 🎓 Estudante de Engenharia de Computação
-- 💻 Focado em desenvolvimento de software
-- 🚀 Buscando oportunidade como **Estagiário de Engenharia de Software**
-- 📚 Estudando **Java, Python, SQL e desenvolvimento web**
-- ⚙️ Interesse em **Back-end, Sistemas e boas práticas de código**
+- Desenvolvedor apaixonado por tecnologia e interfaces bem feitas
+- Estudando e evoluindo em Front-End moderno
+- Focado em projetos com visual profissional e boa experiência de uso
+- Buscando crescer cada vez mais com React, JavaScript e design de interfaces
 
 ---
 
-## 🛠 Tecnologias e Ferramentas
+## Tecnologias que uso
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,js,html,css,git,github,vscode" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Atualmente estudando
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,next,nodejs" />
+</p>
+
+---
+
+## Projetos em destaque
+
+- [RT Material](https://github.com/matheusBiscaia/rtMaterial)
+- Em breve mais projetos publicados por aqui
+
+---
+
+## Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=matheusBiscaia&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=matheusBiscaia&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusBiscaia&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Consistência
+## Contato
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=matheusBiscaia&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📌 Projetos em destaque
-
-- 🔹 Em breve vou destacar aqui meus principais projetos
-- 🔹 NetInspector
-- 🔹 Projetos em Java
-- 🔹 Aplicações web e exercícios práticos
+- Email: `SEUEMAILAQUI@gmail.com`
+- LinkedIn: `https://www.linkedin.com/in/SEU-LINK-AQUI/`
+- Instagram: `https://www.instagram.com/SEU-INSTAGRAM/`
 
 ---
 
-## 📫 Contato
-
 <p align="center">
-  <a href="SEU_LINK_LINKEDIN">LinkedIn</a> •
-  <a href="mailto:SEU_EMAIL">Email</a>
+  Feito com dedicação para construir uma trajetória forte na programação.
 </p>

@@ -1,34 +1,39 @@
 <div align="center">
 
-# Matheus Biscaia
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXlkNWV2Y2JmZzR5a2JjOWxsbDF3eWE5cmE0aWRvb2V4Ymh1amU0MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="760" />
 
-### Front-End Developer
+<br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-End;Criando+interfaces+bonitas+e+funcionais;Estudando+React%2C+JavaScript+e+TypeScript" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&lines=Matheus+Biscaia;Front-End+Developer;Construindo+interfaces+bonitas+e+funcionais;React+%7C+JavaScript+%7C+UI+em+evolucao" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+| ![](https://github-readme-stats.vercel.app/api?username=matheusBiscaia&theme=dark&show_icons=true&hide_border=true&rank_icon=github) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusBiscaia&layout=compact&theme=dark&hide_border=true) |
+| :-: | :-: |
 
 </div>
 
 ---
 
-## ✦ About me
+## ✦ Sobre mim
 
-- Desenvolvedor focado em interfaces modernas
-- Estudando React, JavaScript e TypeScript
-- Interesse em design, responsividade e experiencia do usuario
-- Construindo projetos reais para evoluir como programador
+- Sou **Matheus Biscaia**, desenvolvedor em evolução com foco em **Front-End**
+- Gosto de criar interfaces com visual bonito, navegação clara e boa experiência para o usuário
+- Estou aprofundando meus estudos em **React**, **JavaScript**, **TypeScript** e construção de projetos reais
+- Meu objetivo é transformar aprendizado em projetos cada vez mais profissionais
+- Atualmente desenvolvendo aplicações com foco em **layout responsivo**, **organização de código** e **deploy**
 
 ---
 
-## ✦ Tech Stack
+## ✦ Tecnologias
 
 ### Front-End
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### Ferramentas
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ### Estudando
@@ -36,33 +41,42 @@
   <img src="https://skillicons.dev/icons?i=ts,next,nodejs" />
 </p>
 
----
-
-## ✦ GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=matheusBiscaia&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusBiscaia&layout=compact&theme=tokyonight&hide_border=true" />
+### Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
 </p>
 
 ---
 
-## ✦ Featured Project
+## ✦ Projeto em destaque
 
 - [RT Material](https://github.com/matheusBiscaia/rtMaterial)
 
+Se quiser, depois você pode colocar aqui também o link da Vercel.
+
 ---
 
-## ✦ Contact
+## ✦ Contato
 
-<p>
+<p align="center">
   <a href="mailto:SEUEMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=black" height="36" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU-LINK/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/SEU-LINK/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black" height="36" />
   </a>
-  <a href="https://www.instagram.com/SEU-INSTAGRAM/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/SEU-INSTAGRAM/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=black" height="36" />
+  </a>
+  <a href="https://github.com/matheusBiscaia" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black" height="36" />
   </a>
 </p>
+
+---
+
+<div align="center">
+
+### Obrigado por visitar meu perfil
+
+</div>

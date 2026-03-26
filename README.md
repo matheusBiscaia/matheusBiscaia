@@ -17,7 +17,7 @@
 
 ---
 
-### <p align="center"><strong>✦ About me ✦</strong></p>
+### <p align="center"><strong>✦ Sobre mim ✦</strong></p>
 
 - Sou **Matheus Biscaia** e estou construindo minha jornada como **Front-End Developer**
 - Gosto de desenvolver interfaces bonitas, organizadas e funcionais
@@ -50,11 +50,6 @@
 
 ---
 
-### <p align="center"><strong>✦ Featured Project ✦</strong></p>
-
-- [RT Material](https://github.com/matheusBiscaia/rtMaterial)
-
-<br>
 
 ---
 

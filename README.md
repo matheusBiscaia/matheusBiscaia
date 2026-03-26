@@ -13,7 +13,7 @@
 <div align="center">
 
 | ![](https://github-readme-stats.vercel.app/api?username=matheusBiscaia&theme=dark&show_icons=true&hide_border=true&rank_icon=github) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusBiscaia&layout=compact&theme=dark&hide_border=true) |
-| :-: | :-: |
+
 
 </div>
 

@@ -67,8 +67,3 @@
 
 ---
 
-<div align="center">
-
-### Obrigado por visitar meu perfil
-
-</div>

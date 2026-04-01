@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="760" />
   <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&lines=Matheus+Biscaia;Front-End+Developer;React+%7C+JavaScript+%7C+UI; Construindo+interfaces+bonitas+e+funcionais" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&lines=Matheus+Biscaia;Front-End+Developer;React+%7C+JavaScript+%7C+UI;Construindo+interfaces+bonitas+e+funcionais" />
   <br><br>
 
 </div>

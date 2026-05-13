@@ -20,7 +20,7 @@
 
 - Sou **Matheus Biscaia** e estou construindo minha jornada como **Front-End Developer**
 - Gosto de desenvolver interfaces bonitas, organizadas e funcionais
-- Estou aprofundando meus estudos em **React**, **JavaScript**, **TypeScript** e desenvolvimento de projetos reais
+- Estou aprofundando meus estudos em **React**, **JavaScript**, e desenvolvimento de projetos reais
 - Tenho interesse em **UI**, **responsividade** e experiências mais profissionais para web
 - Meu foco é evoluir constantemente e transformar aprendizado em projetos cada vez melhores
 

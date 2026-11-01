@@ -111,33 +111,6 @@ Aplicação para agendamento e gerenciamento de consultas.
 ---
 
 
----
-
-### <p align="center"><strong>✦ Estatísticas do GitHub ✦</strong></p>
-
-<div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=matheusBiscaia&theme=tokyonight&hide_border=true"
-    alt="Sequência de contribuições no GitHub"
-    width="500"
-  />
-</div>
-
-<br>
-
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=matheusBiscaia&theme=tokyo-night&hide_border=true"
-    alt="Gráfico de atividades do GitHub"
-    width="850"
-  />
-</div>
-
-<br>
-
----
-
-
 
 ---
 

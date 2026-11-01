@@ -92,7 +92,7 @@ API REST para gerenciamento de usuários e permissões.
 - Regras de ativação e inativação de usuários.
 - Integração com Service Discovery utilizando Eureka.
 
-🔗 [Ver repositório](https://github.com/ucsal/usuario-perfis-service-grupo7)
+🔗 [Ver repositório]([https://github.com/ucsal/usuario-perfis-service-grupo](https://github.com/matheusBiscaia/microservico-usuarios-perfis))
 
 ### 🦷 Sistema de Consultório Odontológico
 Aplicação para agendamento e gerenciamento de consultas.
